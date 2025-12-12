@@ -1,0 +1,7 @@
+[client]
+database = budget
+user = user
+password = 
+default-character-set = utf8mb4
+
+
